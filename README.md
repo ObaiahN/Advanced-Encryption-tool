@@ -15,3 +15,18 @@ SecureFileVault is a robust, user-friendly desktop application for encrypting an
 👥 Target Users
 🚀 Future Enhancements (Optional)
 
+**⚙️ 1. Programming Language & Environmen**t
+Language: Python 3.x
+**
+Libraries Used:
+
+cryptography (main cryptographic operations)
+
+argparse (command-line arguments)
+
+os, base64, getpass (file and key handling)
+
+Interface: Command Line (CLI) and modular script functions
+
+Platform: Cross-platform (Linux, Windows, macOS)
+
