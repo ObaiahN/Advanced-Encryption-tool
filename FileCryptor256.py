@@ -115,8 +115,14 @@ tk.Button(root, text="Decrypt File", command=decrypt_action, width=30).pack(pady
 
 root.mainloop()
 
+OUTPUT:
 
+Meeting Notes - Project Athena
+Date: 2025-06-20
 
-
+- Discussed backend API integration timelines.
+- UI/UX team will deliver Figma mockups by June 28.
+- Initial testing of login module completed.
+- Next meeting scheduled for June 27 at 10:00 AM.
 
 
